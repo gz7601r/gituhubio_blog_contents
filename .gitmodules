@@ -1,0 +1,4 @@
+[submodule "githubio_blog/public"]
+	path = githubio_blog/public
+	url = https://github.com/gz7601r/gz7601r.github.io.git
+	branch = master

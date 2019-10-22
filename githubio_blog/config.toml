@@ -1,0 +1,3 @@
+baseURL = "https://xxx.github.io//" #Site URL
+languageCode = "ja-jp" 
+title = "Hugo New Blog"
